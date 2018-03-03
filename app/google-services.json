@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "431898443823",
+    "firebase_url": "https://kotlinreyclerviewplcs.firebaseio.com",
+    "project_id": "kotlinreyclerviewplcs",
+    "storage_bucket": "kotlinreyclerviewplcs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431898443823:android:d2f7035aab0a1d2f",
+        "android_client_info": {
+          "package_name": "com.example.mrtayyab.kotlinreyclerviewplcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431898443823-ma25sbq362rritaf4o9tg5ovgf0ohkkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mrtayyab.kotlinreyclerviewplcs",
+            "certificate_hash": "39744d7b982f6fcd399e95da03b19aa96b62a576"
+          }
+        },
+        {
+          "client_id": "431898443823-p3vcog05qh8h3e5ii0s6k8qtilf6ao10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkmQfZ9rdyeIMrXEjQFKOqECiP0ObEYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431898443823-p3vcog05qh8h3e5ii0s6k8qtilf6ao10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431898443823:android:44270cd690969083",
+        "android_client_info": {
+          "package_name": "com.example.mrtayyab.livesearchfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431898443823-eoop6v4g0ebfrg68eu9rcoeodmo7j7hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mrtayyab.livesearchfirebase",
+            "certificate_hash": "39744d7b982f6fcd399e95da03b19aa96b62a576"
+          }
+        },
+        {
+          "client_id": "431898443823-p3vcog05qh8h3e5ii0s6k8qtilf6ao10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkmQfZ9rdyeIMrXEjQFKOqECiP0ObEYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431898443823-p3vcog05qh8h3e5ii0s6k8qtilf6ao10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
